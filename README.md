@@ -1,2 +1,2 @@
 # PROMISE
-Personalized Regimen for HCC with Optimal MedicalInformation, Strategy and Evidence
+Personalized Regimen for HCC with Optimal Medical Information, Strategy and Evidence
